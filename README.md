@@ -9,6 +9,8 @@ This lab simulates the identity and access management foundation of a real enter
 **Environment:** Windows Server 2025 Datacenter, Azure VM (Standard_B2s)
 **Domain:** `lab.local`
 **Time to complete:** 3–5 hours across multiple sessions
+# Watch Full Walkthrough
+https://www.loom.com/share/34de67211b6f48ff920eb59e071a8e12
 
 ## Skills Demonstrated
 
